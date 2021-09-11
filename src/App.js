@@ -20,16 +20,8 @@ function App() {
       type:"Action and Crime",
       /* watch:'https://www.youtube.com/watch?v=fSqa0a3mGk8' */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=fSqa0a3mGk8"
-          /* title="YouTube video player" */
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
-      },
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/9hcqVYCqGMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      )},
     {
       id:2,
       title:"Megalodon Rising",
@@ -39,15 +31,7 @@ function App() {
       type:"Action",
       /* watch:'https://www.youtube.com/watch?v=Ai5raaW_fPM' */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=Ai5raaW_fPM"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/Ai5raaW_fPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
     },
     { 
       id:3,
@@ -58,15 +42,7 @@ function App() {
       type:"Action and Crime",
       /* watch:'https://www.youtube.com/watch?v=_qyw6LC5pnE' */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=_qyw6LC5pnE"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/_qyw6LC5pnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
     },
     {
       id:4,
@@ -77,15 +53,7 @@ function App() {
       type:"Action and Drama",
       /* watch:'https://www.youtube.com/watch?v=UEZEbcuGjCQ' */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=UEZEbcuGjCQ"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/UEZEbcuGjCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
     },
     {
       id:5,
@@ -96,15 +64,7 @@ function App() {
       type:"Sport and Documentary",
       /* watch:'https://www.youtube.com/watch?v=GrJ3ntd1FCU' */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=GrJ3ntd1FCU"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/GrJ3ntd1FCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
     },
     {
       id:6,
@@ -115,15 +75,7 @@ function App() {
       type:"Action and Drama",
       /* watch:"https://www.youtube.com/watch?v=4BcKbOCYOpA" */
       trailer: (
-        <iframe
-          width="400"
-          height="300"
-          src="https://www.youtube.com/watch?v=4BcKbOCYOpA"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>)
+        <iframe width="650" height="480" src="https://www.youtube.com/embed/4BcKbOCYOpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
     }
     
   ])
